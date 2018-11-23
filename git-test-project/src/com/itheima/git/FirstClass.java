@@ -12,5 +12,6 @@ public class FirstClass {
     }
     public void test(){
         int i=2;
+        System.out.println("hello,git");
     }
 }
